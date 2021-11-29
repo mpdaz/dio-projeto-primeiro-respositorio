@@ -3,7 +3,7 @@ Projeto de primeiro repositório para o bootcamp Decola Tech da Digital Innovati
 
 ## Links Úteis
 * [Documentação Git](https://git-scm.com/docs/gittutorial)
-* [Livro Pro Git em Português (traduzido parcialmente](https://git-scm.com/book/pt-br/v2)
-* [Livro Pro Git em Inglês](https://git-scm.com/book/en/v2)
+* [Livro Pro Git em português (traduzido parcialmente)](https://git-scm.com/book/pt-br/v2)
+* [Livro Pro Git em inglês](https://git-scm.com/book/en/v2)
 * [Como criar um token para acessar o GitHub](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-* [Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)
+* [Sintaxe básica de Markdown](https://www.markdownguide.org/basic-syntax/)
