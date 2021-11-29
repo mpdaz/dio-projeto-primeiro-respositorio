@@ -8,10 +8,12 @@
 	Mostra descrição de um comando específico.
 
 #### Configuração do Git
-* git config --global user.email "_email_"
+* git config --global user.email _email_
 	Informa o email do usuário (igual ao GitHub).
 * git config --global user.name "_nome_"
 	Informa o nome do usuário (igual ao GitHub).
+* git config --list
+	Para ver as configurações feitas no Git.
 
 #### Criar/clonar respositório
 * git clone _link do diretório no GitHub_
