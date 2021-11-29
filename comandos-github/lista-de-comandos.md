@@ -26,5 +26,5 @@
 	Adiciona os arquivos modificados à lista de arquivos que devem ser comitados.
 * git commit -m "_descrição do commit_"
 	Registra as alterações no repositório
-* git push
+* git push origin main
 	Envia os commits para o GitHub.
